@@ -8,7 +8,7 @@
 </div>
 
 # Project Name
-*Proje Adı*
+*REVİZE EDİLECEK*
 
 A brief, engaging description of your project.  
 *Projenizin kısa ve ilgi çekici bir açıklaması.*
