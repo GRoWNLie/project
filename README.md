@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# Project Name
+# REVİZE EDİLECEK
 *REVİZE EDİLECEK*
 
 A brief, engaging description of your project.  
