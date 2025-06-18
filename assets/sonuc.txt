@@ -1,0 +1,25 @@
+Parola: 123456
+Güç Durumu: Zayıf
+Sızıntı Durumu: Sızıntıda Bulundu!
+Hash Eşleşmesi: Güvenli
+----------------------------------------
+Parola: Password1!
+Güç Durumu: Güçlü
+Sızıntı Durumu: Güvenli
+Hash Eşleşmesi: Güvenli
+----------------------------------------
+Parola: qwerty
+Güç Durumu: Zayıf
+Sızıntı Durumu: Sızıntıda Bulundu!
+Hash Eşleşmesi: Güvenli
+----------------------------------------
+Parola: M9$kE4vZ
+Güç Durumu: Güçlü
+Sızıntı Durumu: Güvenli
+Hash Eşleşmesi: Güvenli
+----------------------------------------
+Parola: abc123
+Güç Durumu: Zayıf
+Sızıntı Durumu: Güvenli
+Hash Eşleşmesi: Güvenli
+----------------------------------------
