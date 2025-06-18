@@ -49,7 +49,7 @@ Proje kapsamında aşağıdaki konular araştırılmıştır:
 
 ---
 
-##Usage / Kullanım
+## Usage / Kullanım
 -Program açıldığında, parolanızı giriş kutusuna yazın ve "Parolayı Kontrol Et" butonuna tıklayın.
 -Parolanızın güç durumu, sızıntı durumu ve hash eşleşme durumu renklerle gösterilecektir.
 -"Güçlü Parola Üret" butonuna basarak rastgele güçlü bir parola oluşturabilirsiniz.
